@@ -12,6 +12,8 @@ Imagens usadas para background e tela inicial, foram criadas no bing image creat
 -  dio: 5.4.0
 - shared_preferences: 2.2.2
 
+### APP focado nas funcionalidades.
+
 ## Usabilidade:
 
 Biblioteca virtual onde o usuário pode baixar e ler o conteúdo dos livros disponíveis dentro do próprio app, 
