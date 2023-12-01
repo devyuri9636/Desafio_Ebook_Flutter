@@ -1,16 +1,32 @@
-# ebookchallenge
+# Ebookchallenge
 
-A new Flutter project.
+Desafio de criação de um aplicativo flutter de ebooks.
+Todos os livros disponíveis foram obtidos via api fornecidas previamente.
+Imagens usadas para background e tela inicial, foram criadas no bing image creator.
+### Na pasta "ArquivoAPK" se encontra o apk para download!
 
-## Getting Started
+##Bibliotecas usadas:
+- vocsy_epub_viewer: 2.0.0
+- http: 1.1.2
+-  path_provider: 2.1.1
+-  dio: 5.4.0
+- shared_preferences: 2.2.2
 
-This project is a starting point for a Flutter application.
+## Usabilidade:
 
-A few resources to get you started if this is your first Flutter project:
+Biblioteca virtual onde o usuário pode baixar e ler o conteúdo dos livros disponíveis dentro do próprio app, 
+também adicionar livros aos favoritos.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Livros disponiveis](https://i.imgur.com/eysqkbO.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Seção de favoritos](https://i.imgur.com/t6hpwmW.jpeg)
+
+![Livro selecionado](https://i.imgur.com/pYbtZxA.jpeg)
+
+![Conteúdo do livro selecionado](https://i.imgur.com/Sjv3LjS.jpeg)
+
+![Opções de busca de conteúdo, marcação, etc.](https://i.imgur.com/VdFA0t8.jpeg)
+
+
+
+
