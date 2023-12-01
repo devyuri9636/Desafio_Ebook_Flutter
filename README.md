@@ -17,6 +17,14 @@ Imagens usadas para background e tela inicial, foram criadas no bing image creat
 Biblioteca virtual onde o usuário pode baixar e ler o conteúdo dos livros disponíveis dentro do próprio app, 
 também adicionar livros aos favoritos.
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://i.imgur.com/eysqkbO.jpeg" alt="Imagem 1" width="200" />
+    <img src="https://i.imgur.com/t6hpwmW.jpeg" alt="Imagem 2" width="200" />
+    <img src="https://i.imgur.com/pYbtZxA.jpeg" alt="Imagem 3" width="200" />
+    <img src="https://i.imgur.com/Sjv3LjS.jpeg" alt="Imagem 4" width="200" />
+    <img src="https://i.imgur.com/VdFA0t8.jpeg" alt="Imagem 5" width="200" />
+</div>
+
 ![Livros disponiveis](https://i.imgur.com/eysqkbO.jpeg)
 
 ![Seção de favoritos](https://i.imgur.com/t6hpwmW.jpeg)
