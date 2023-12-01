@@ -1,4 +1,4 @@
-# Ebookchallenge
+# EbookChallenge
 
 Desafio de criação de um aplicativo flutter de ebooks.
 Todos os livros disponíveis foram obtidos via api fornecidas previamente.
