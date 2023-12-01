@@ -25,15 +25,6 @@ também adicionar livros aos favoritos.
     <img src="https://i.imgur.com/VdFA0t8.jpeg" alt="Imagem 5" width="200" />
 </div>
 
-![Livros disponiveis](https://i.imgur.com/eysqkbO.jpeg)
-
-![Seção de favoritos](https://i.imgur.com/t6hpwmW.jpeg)
-
-![Livro selecionado](https://i.imgur.com/pYbtZxA.jpeg)
-
-![Conteúdo do livro selecionado](https://i.imgur.com/Sjv3LjS.jpeg)
-
-![Opções de busca de conteúdo, marcação, etc.](https://i.imgur.com/VdFA0t8.jpeg)
 
 
 
